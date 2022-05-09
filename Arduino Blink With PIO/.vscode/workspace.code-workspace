@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../arduino_projects"
+		},
+		{
+			"name": "Arduino Blink With PIO",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
